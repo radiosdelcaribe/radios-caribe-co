@@ -1132,6 +1132,12 @@ ul.nostyle i {
     color: #fff;
     background: #424044;
   }
+  #footer #link-phone  {
+    display: none;
+  }
+  #footer #link-phone-icons {
+    display: none;
+  }
   #footer a {
     font-size: 1.000em;
     color: #fff;
@@ -1182,6 +1188,12 @@ ul.nostyle i {
     color: #fff;
     background: #424044;
   }
+  #footer #link-phone  {
+    display: none;
+  }
+  #footer #link-phone-icons {
+    display: none;
+  }
   #footer a {
     font-size: 0.750em;
     color: #fff;
@@ -1225,6 +1237,12 @@ ul.nostyle i {
     color: #fff;
     background: #424044;
   }
+  #footer #link {
+    display: none;
+  }
+  #footer #link-phone {
+    display: visible;
+  }
   #footer a {
     font-size: 0.625em;
     color: #fff;
@@ -1238,8 +1256,11 @@ ul.nostyle i {
     display: inline-block;
     margin: 0 7.5px;
   }
-  #link i {
+  #link-phone-icons {
+    text-align: center;
+    font-size: 1.300em;
     padding: 3px;
+    line-height: 1.750em;
   }
   #photo {
     display: none;
